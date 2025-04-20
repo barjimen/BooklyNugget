@@ -1,6 +1,6 @@
-﻿using StoryConnect.Models;
+﻿
 
-namespace StoryConnect_V2.Models
+namespace BooklyNugget.Models
 {
     public class GenerosDTO
     {

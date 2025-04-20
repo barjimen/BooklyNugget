@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace StoryConnect.Models
+namespace BooklyNugget.Models
 {
     [Table("V_LIBROS_LEYENDO")]
     public class LibrosLeyendo
@@ -22,7 +22,7 @@ namespace StoryConnect.Models
         [Column("NOMBREAUTOR")]
         public string NombreAutor { get; set; }
         [Column("LISTAID")]
-        public int IdLista {  get; set; }
+        public int IdLista { get; set; }
         [Column("NUMEROPAGINAS")]
         public int paginas { get; set; }
     }

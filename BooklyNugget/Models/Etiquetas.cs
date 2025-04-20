@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace StoryConnect.Models
+namespace BooklyNugget.Models
 {
     [Table("ETIQUETAS")]
     public class Etiquetas

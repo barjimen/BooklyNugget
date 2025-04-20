@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace StoryConnect.Models
+namespace BooklyNugget.Models
 {
     [Table("AUTORES")]
     public class Autores

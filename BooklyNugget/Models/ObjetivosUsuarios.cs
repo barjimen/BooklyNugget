@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace StoryConnect.Models
+namespace BooklyNugget.Models
 {
     [Table("V_OBJETIVOS_LECTURA")]
     public class ObjetivosUsuarios

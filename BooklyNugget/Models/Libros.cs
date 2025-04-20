@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Numerics;
 
-namespace StoryConnect.Models
+namespace BooklyNugget.Models
 {
     [Table("V_LIBROS")]
     public class Libros

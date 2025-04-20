@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace StoryConnect.Models
+namespace BooklyNugget.Models
 {
     [Table("V_LIBROS_PREDEFINIDAS")]
     //[Table("V_LIBROS_PREDEFINIDAS")]

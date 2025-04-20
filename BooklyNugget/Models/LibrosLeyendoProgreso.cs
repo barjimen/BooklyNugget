@@ -1,4 +1,5 @@
-﻿namespace StoryConnect.Models
+﻿
+namespace BooklyNugget.Models
 {
     public class LibrosLeyendoProgreso
     {

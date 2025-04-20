@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace StoryConnect.Models
+namespace BooklyNugget.Models
 {
     public class LibrosDetalles
     {
